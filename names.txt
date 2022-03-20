@@ -1,0 +1,14 @@
+manish
+suresh
+tapan
+nirav
+malik
+sushant
+bhagiath
+
+:q
+
+to save and exit => esc + shift+zz
+zx for unsave and exit
+
+q
